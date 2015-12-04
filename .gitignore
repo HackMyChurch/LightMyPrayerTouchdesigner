@@ -4,3 +4,5 @@
 
 *.avi
 *.mov
+
+/Scripts/upload

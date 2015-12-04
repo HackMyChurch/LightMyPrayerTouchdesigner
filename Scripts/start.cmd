@@ -1,3 +1,3 @@
-cd "C:\Users\LightMyPrayer\Desktop\lmp"
+cd "D:\LightMyPrayerTouchdesigner\Scripts"
 node server.js
 
