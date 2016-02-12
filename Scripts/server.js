@@ -1,4 +1,4 @@
-var images_path     = "./upload/"
+var images_path     = "./upload/pre"
 var express         =       require("express");
 var multer          =       require('multer');
 var app             =       express();
